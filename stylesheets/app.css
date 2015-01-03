@@ -1,0 +1,8 @@
+html, body, .v-align {
+  height: 100%;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+}
